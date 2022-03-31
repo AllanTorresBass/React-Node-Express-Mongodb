@@ -13,4 +13,6 @@
 ### `npm install`
 Instala las dependencias
 ### `npm start`
-Inicia la aplicación en modo desarrollo en el puerto `3000`
+Inicia la aplicación en modo desarrollo en el puerto `3000` React
+
+Inicia la aplicación en modo desarrollo en el puerto `3001` Api
