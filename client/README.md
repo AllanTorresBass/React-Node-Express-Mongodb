@@ -1,8 +1,13 @@
-# React Router v6 - Guía práctica desde CERO | Tutorial
+# ReactJS-Node-Express-Mongodb
 
-## Video Tutorial:
-[![React Router v6 - Guía práctica desde CERO | Tutorial](https://img.youtube.com/vi/KKXFmzr0nKk/0.jpg)](https://www.youtube.com/watch?v=KKXFmzr0nKk "React Router v6 - Guía práctica desde CERO | Tutorial")
-
+## Dev app using React  - Node - Express - Mongodb ang consume an News API 
+ 
+    - Created user: Admin and User.
+    - SIgnin > Login > Logout > Sesion control with localstorage
+    - Add <> Consulting <> Delete Products
+    - browsing based on user type
+    - Consume News API
+    
 ## Para iniciar la aplicación en modo desarrollo, usar los siguientes scripts
 
 ### `npm install`
